@@ -1,4 +1,4 @@
-package com.piotrdziewit.geohor;
+package com.piotrdziewitgeohor.geohor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
