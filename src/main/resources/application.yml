@@ -1,0 +1,14 @@
+env: default
+
+server:
+  port: 8080
+  banner:
+    image:
+      location: worker.png
+
+
+domain: geohor.com
+
+admin:
+  email: dziewitpiotr@gmail.com
+  phone: 660-718-389
